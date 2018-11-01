@@ -1,0 +1,39 @@
+html{
+  background-color: rgb(44, 44, 44);
+  color: antiquewhite
+
+}
+
+header {
+  background-color: black;
+  font-family: fantasy;
+  text-decoration: none;
+}
+
+header a {
+  text-decoration: none;
+}
+
+body {
+  text-align: center
+}
+
+#header-title {
+  display: block;
+  text-align: center;
+  font-size: 40pt;
+  padding-top: 20pt;
+}
+
+#header-nav {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  
+  padding-bottom: 20pt;
+}
+
+#pageheader {
+  color: #a13131;
+}
+
